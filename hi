@@ -1,0 +1,23 @@
+# Demon Slayer Game
+
+A text-based Demon Slayer game written in Python.
+
+## How to Play
+
+1. Clone or download the repository.
+2. Make sure you have Python installed.
+3. Run the game.py script.
+4. Follow the on-screen instructions to play.
+
+## Game Controls
+
+- Enter 'attack' to attack the demon.
+- Follow on-screen instructions for other actions.
+
+## Dependencies
+
+- Python 3.x
+
+## Screenshots
+
+![Gameplay](assets/gameplay.png)
